@@ -15,7 +15,7 @@ This project analyzes RNA-seq gene expression data from The Cancer Genome Atlas 
 - Merged all samples into single gene expression matrix
 - Transposed data (samples x genes)
 - Standarized features using 'StandardScaler'
-- AApplied Principal Component Analysis (PCA), a dimensionality reduction technique that summarizes variation across thousands of genes into a few components
+- Applied Principal Component Analysis (PCA), a dimensionality reduction technique that summarizes variation across thousands of genes into a few components
 
 ## Results
 - PCA reveals separation between tumor and normal samples 
