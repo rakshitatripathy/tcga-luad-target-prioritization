@@ -36,7 +36,7 @@ This project analyzes RNA-seq gene expression data from The Cancer Genome Atlas 
 
 ## Takeaways
 - Built a full RNA-seq preprocessing and anlysis pipeline
-- Demonstrated how PCA can reveal structire in biologicla data
+- Demonstrated how PCA can reveal structure in biological data
 - Highlighted gene expression differences in cancer vs normal tissue
 
 ## Author
